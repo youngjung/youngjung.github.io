@@ -416,7 +416,7 @@ p{
 }
 
 .pink {
-  color: #ff5a71;
+  color: #990000;
 }
 
 
@@ -442,7 +442,7 @@ p{
 /* TEXT SHADOWS
 * --------------------------------------- */
 .heavy {
-text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1);
+text-shadow: 0px 4px 3px rgba(0, 255, 0, 0.8), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.1);
 }
 
 .large-blur {
